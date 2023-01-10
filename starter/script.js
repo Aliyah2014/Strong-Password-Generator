@@ -90,6 +90,7 @@ var upperCasedCharacters = [
 
 // Function to prompt user for password options
 function getPasswordOptions() {
+  var passwordLength = confirm 
 
 }
 
@@ -103,6 +104,7 @@ function generatePassword() {
 
 }
 
+//Don't touch this
 // Get references to the #generate element
 var generateBtn = document.querySelector('#generate');
 
