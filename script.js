@@ -13,6 +13,7 @@ function getPasswordOptions() {
   const includeSpecial = confirm('Would you like to include special characters?');
 }
 
+// To validate users choice of password
 if (isNaN(passwordLength) || passwordLength < 10 || passwordLength > 64) {
   alert('Password length must be a number between 10 and 64!');
   return '';
@@ -21,11 +22,6 @@ if (!includeLowercase && !includeUppercase && !includeNumeric && !includeSpecial
   alert('You must select at least one character type!');
   return '';
 }
-
-// Function for getting a random element from an array
-// function getRandom(arr) {
-
-// }
 
 // Function to generate password with user input
 
