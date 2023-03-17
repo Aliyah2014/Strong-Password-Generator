@@ -28,9 +28,6 @@ if (!includeLowercase && !includeUppercase && !includeNumeric && !includeSpecial
 // }
 
 // Function to generate password with user input
-function generatePassword() {
-
-}
 
 
 // //Don't touch this
