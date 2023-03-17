@@ -6,8 +6,8 @@ This is a password generator that allows the user to decide whether they want up
 
 https://aliyah2014.github.io/prework-study-guide/ 
 
-![image of password generator](//Strong-Password-Generator/assets/05-javascript-challenge-demo.png)
 
+![image of password generator](//Strong-Password-Generator/assets/image2.png)
 
 ## Installation
 N/a
