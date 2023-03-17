@@ -41,7 +41,3 @@ document.getElementById('generate').addEventListener('click', function() {
   const passwordField = document.getElementById('password');
   passwordField.value = generatePassword();
 });
-
-
-
-
